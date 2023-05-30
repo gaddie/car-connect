@@ -338,6 +338,7 @@ body {
 .city-img {
   height: 400px;
   opacity: 0.4;
+  width: 100%;
 }
 
 .location-img {
